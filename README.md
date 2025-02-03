@@ -1,0 +1,11 @@
+# 👋 Hi, I’m @KingFillari  
+- 👀 I’m interested in Software Engineering, Web Development, and Scalable Application Solutions.  
+- 🌱 I’m currently learning Software Engineering.  
+- 💞️ I’m looking to collaborate on Full-Stack Development projects, Hotel & Airline Management Systems, and innovative tech solutions.  
+- 📫 How to reach me:  
+  - 📧 Email: gebrefillimon@gmail.com  
+  - 🌐 Portfolio: [Coming Soon]  
+  - 🐦 Twitter: [Coming Soon]  
+  - 💼 LinkedIn: [Coming Soon]  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love nature and dream of creating a utopian world with advanced technology and global peace! 🌍🚀  
