@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Fillimon (aka @KingFillari)
+# 👋 Hello there, I'm Fillimon (@KingFillari)
 
 🌍 A passionate Software Engineer in the making — turning lines of code into real-world solutions and dreaming of a utopian future built on peace, innovation, and tech.
 
